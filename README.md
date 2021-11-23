@@ -1,6 +1,6 @@
-# M1_Application_SmartParkingSystem
 
 # M1_Application_SmartparkingSystem
+
 # Smart parking System #
 
 Parking System is based on the concept of managing parking area record. There’s a login system available for this system, the user can freely use its feature. This mini project contains limited features, but the essential one. This project is helpful for managing parking information by adding, updating, removing, viewing and searching for details.
